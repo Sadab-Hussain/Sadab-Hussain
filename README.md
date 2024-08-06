@@ -1,4 +1,4 @@
-👋 Hello! I'm Sadab Hussain, a dedicated B.Tech Computer Engineering student at Marwadi University, currently in my second year. My passion lies in the dynamic field of technology, where I constantly seek out new opportunities to expand my knowledge and skills.
+👋 Hello! I'm Sadab Hussain, a dedicated B.Tech Computer Engineering student at Marwadi University, currently in my Pre-Final year. My passion lies in the dynamic field of technology, where I constantly seek out new opportunities to expand my knowledge and skills.
 
 -> As an enthusiastic learner, I am deeply interested in coding and programming, with a particular curiosity for competitive coding. I actively seek challenges on platforms like LeetCode and GeeksForGeeks and Different-Different coding platform to sharpen my problem-solving abilities and stay abreast of the latest developments in the tech world.
 
