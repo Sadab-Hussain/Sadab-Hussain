@@ -1,14 +1,22 @@
-👋 Hello! I'm Sadab Hussain, a dedicated B.Tech Computer Engineering student at Marwadi University, currently in my Pre-Final year. My passion lies in the dynamic field of technology, where I constantly seek out new opportunities to expand my knowledge and skills.
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/f02dea4c-9ce7-4700-8e77-c61e24f0e6db" alt="Hello World" style="width:20%;"/>
 
--> As an enthusiastic learner, I am deeply interested in coding and programming, with a particular curiosity for competitive coding. I actively seek challenges on platforms like LeetCode and GeeksForGeeks and Different-Different coding platform to sharpen my problem-solving abilities and stay abreast of the latest developments in the tech world.
+  ## Hi there, I'm Sadab Hussain 👋
 
--> Beyond coding, I am keen on exploring diverse technical domains such as web development, data science, and machine learning. I believe in continuous learning and am committed to staying updated with emerging technologies to remain at the forefront of innovation.
+  I'm a dedicated computer engineering student with a deep passion for the dynamic field of technology. My journey is driven by a constant pursuit of knowledge and the desire to turn ideas into reality through code.
 
--> At Marwadi University, I have had the privilege of delving into various aspects of computer engineering, honing my skills in software development, algorithms, and data structures. I am eager to apply these skills in real-world scenarios and contribute meaningfully to the tech industry.
+  🌱 Enthusiastic Learner: I have a strong interest in coding and programming, especially in the realm of competitive coding. I actively engage with platforms like LeetCode and GeeksForGeeks to hone my problem-solving skills and keep up with the latest trends in the tech industry.
 
-🔗 If you want more details about me so please get in touch with Me on Email 🔗
-💌 sadabhussain0143@gmail.com
+  💻 Exploring Technical Domains: Beyond coding, I am fascinated by diverse areas such as web development, and software development. I am committed to continuous learning and staying updated with emerging technologies to remain at the forefront of innovation.
 
-Thank You For Visiting My Profile ❤️
+  🏫 Academic Experience: At Marwadi University, I've had the opportunity to dive deep into various aspects of computer engineering, including software development, algorithms, and data structures. I'm eager to apply these skills in real-world scenarios and make meaningful contributions to the tech industry.
+
+  🔗 If you want more details about me so please get in touch with Me on Email 🔗
+  
+  💌 sadabhussain0143@gmail.com
+  
+  Thank You For Visiting My Profile ❤️
+</div>
+
 
 
