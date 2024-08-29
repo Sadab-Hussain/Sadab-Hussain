@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/f02dea4c-9ce7-4700-8e77-c61e24f0e6db" alt="Hello World" style="width:20%;"/>
+  <img src="https://github.com/user-attachments/assets/f02dea4c-9ce7-4700-8e77-c61e24f0e6db" alt="Hello World" style="width:30%;"/>
 
-  ## Hi there, I'm Sadab Hussain 👋
+  ## I'm Sadab Hussain 👋
 
   I'm a dedicated computer engineering student with a deep passion for the dynamic field of technology. My journey is driven by a constant pursuit of knowledge and the desire to turn ideas into reality through code.
 
