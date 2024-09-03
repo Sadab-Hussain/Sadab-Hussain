@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/f02dea4c-9ce7-4700-8e77-c61e24f0e6db" alt="Hello World" style="width:20%;"/>
+  <img src="https://github.com/user-attachments/assets/f02dea4c-9ce7-4700-8e77-c61e24f0e6db" alt="Hello World" style="width:30%;"/>
 
   ## 👋 I'm Sadab Hussain 
 
