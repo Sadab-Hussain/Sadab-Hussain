@@ -99,14 +99,15 @@
 
 <table width="100%" align="center">
   <tr>
-    <td>
-      <img width="400em" src="https://github-readme-stats.vercel.app/api?username=sadab-hussain&show_icons=true&locale=en&theme=radical" alt="GitHub Stats">
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=sadab-hussain&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" width="400em" onerror="this.src='https://via.placeholder.com/400x200?          text=GitHub+Stats+Unavailable';">
     </td>
-    <td>
-      <img width="420em" src="https://github-readme-streak-stats.herokuapp.com/?user=sadab-hussain&theme=radical" alt="Streak Stats">
+    <td align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=sadab-hussain&theme=radical" alt="Streak Stats" width="420em" onerror="this.src='https://via.placeholder.com/420x200?                text=Streak+Stats+Unavailable';">
     </td>
   </tr>
 </table>
+
 
 <p align="center"> 
   <b> Thank You 😊 For Visiting My Profile ❤️ </b>
