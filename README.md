@@ -108,7 +108,7 @@
 <table width="100%" align="center">
   <tr>
     <td>
-      <img width="600em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sadab-hussain&theme=radical" alt="Profile Summary">
+      <img width="600em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sadab-hussain&theme=radical" alt="Profile Summary" onerror="this.src='https://via.placeholder.com/600x300?text=Profile+Summary+Unavailable';">
     </td>
   </tr>
 </table>
@@ -116,10 +116,10 @@
 <table width="100%" align="center">
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=sadab-hussain&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" width="400em" onerror="this.src='https://via.placeholder.com/400x200?          text=GitHub+Stats+Unavailable';">
+      <img src="https://github-readme-stats.vercel.app/api?username=sadab-hussain&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" width="400em" onerror="this.src='https://via.placeholder.com/400x200?text=GitHub+Stats+Unavailable';">
     </td>
     <td align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=sadab-hussain&theme=radical" alt="Streak Stats" width="420em" onerror="this.src='https://via.placeholder.com/420x200?                text=Streak+Stats+Unavailable';">
+      <img src="https://your-username.vercel.app?user=sadab-hussain&theme=radical" alt="Streak Stats" width="420em" onerror="this.src='https://via.placeholder.com/420x200?text=Streak+Stats+Unavailable';">
     </td>
   </tr>
 </table>
