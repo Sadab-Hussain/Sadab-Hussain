@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Sadab Hussain</h1>
 <h3 align="center"> A Passionate Frontend Developer from India </h3>
 
@@ -89,18 +88,20 @@
 
 ---
 
-## GSSoC 2024 Badges 🪶
-
-<div align="center">
-  <a href="https://gssoc.girlscript.tech/leaderboard" target="_blank">
-    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
-    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
-    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" />
-    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" />
-    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
-    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
-    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="105px" height="105px" />
-  </a>
+<h2 align="left">⚡ GSSoC 2024 Badges & Achievements 🎖️ </h2>
+<div align="center" style="max-width: 600px; margin: auto;">
+  <h3 style="text-align: left; font-size: 16px;">
+    🥳 Ranked #269 in GSSoC 2024 | 📈 8 Merged PRs | 🏆 Total Score: 1075
+  </h3>
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
+    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="90px" height="90px" />
+    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="90px" height="90px" />
+    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="90px" height="90px" />
+    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="90px" height="90px" />
+    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="90px" height="90px" />
+    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="90px" height="90px" />
+    <img src="https://github.com/neeru24/Connect_icons/blob/main/Hack-Web3Conf%202024%20Badge%20(2).png" width="90px" height="90px" />
+  </div>
 </div>
 
 ---
