@@ -11,6 +11,7 @@
   </a>
 </p>
 
+## 🙋‍♂️ About Me
 - 🔭 I’m currently working on **Frontend Projects**
 - 🌱 I’m currently learning **DSA & MERN Stack (MongoDB, Express, React, Node.js)**
 - 💬 Ask me about **Web Development, Java , Data Structures, and Algorithms**
@@ -86,13 +87,14 @@
  <a href="https://www.instagram.com/_sadab_siddique_" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="Prince Singh" />
  </a> 
-   <a href="mailto:princesingh.cse.2020@gmail.com" target="_blank">
+   <a href="mailto:sadabhussain0143@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Prince Singh" />
  </a> 
 </p>
 
 ---
 
+## 📊 My Github Stats
 <table width="100%" align="center">
   <tr>
     <td>
