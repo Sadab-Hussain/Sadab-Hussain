@@ -18,7 +18,7 @@
 - 👁‍🗨 Open Source Contributor
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 - 📫 Reach me at **sadabhussain0143@gmail.com**
-- ⚡ Fun fact: **I’m curious and always eager to learn!**
+- ⚡ Fun fact: **I’m curious and always eager to learn**
 
 ---
 
