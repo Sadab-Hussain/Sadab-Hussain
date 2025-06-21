@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm <b>Sadab Hussain</b></h1>
-<h3 align="center"> A Passionate Frontend Developer from India </h3>
+<h3 align="center"> A Passionate Frontend Developer from India. </h3>
 
 <p align="center"> 
   <img width="200px" src="https://komarev.com/ghpvc/?username=Sadab-Hussain&&style=for-the-badge" alt="Profile Views Counter" />
