@@ -55,7 +55,7 @@
 <h2 align="left">⚡ GSSoC 2024 Badges & Achievements 🎖️ </h2>
 <div align="center" style="max-width: 600px; margin: auto;">
   <h3 style="text-align: left; font-size: 16px;">
-    🥳 Ranked #269 in GSSoC 2024 | 📈 8 Merged PRs | 🏆 Total Score: 1075
+    🥳 Ranked #269 in GSSoC 2024 | 📈 10 Merged PRs | 🏆 Total Score: 1075
   </h3>
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
     <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="90px" height="90px" />
